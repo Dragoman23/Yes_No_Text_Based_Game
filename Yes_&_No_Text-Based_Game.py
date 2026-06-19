@@ -17,9 +17,14 @@ if action.lower() == "revenge":
 
 
         if action.lower == "truth":
-            
-        #temp
-            pass
+            print("You decide to the honest for once and you tell the guild master your true intentions and your necromancer class. \nTurns out the necromancer class is considered a dark class. \nThese dark classes are fated to bring the end of the world. \nThe shocked guildmaster sends out a guild wide bounty. \nYou now have two options: 'Give Up' or 'Run Way'")
+            action = input("> ")
+            if action.lower() == "give up":
+                print("You slowly kneel before the guildmaster. \nYou know that running away would be pointless. \nA group of royal guards arrest you and take you to the royal court. \nAt the court, you are sentenced to death with a public execution. \nAs you kneel on the execution stand, a guillotine blade is held above your head. \n3,2,1! \nYOU HAVE DIED")
+                print("THE END")
+            if action.lower() == "run away":
+                print("Realizing the folly in you actions, you choose to run away and live a life as a fugitive. \nAs a stumble into the slums, your stomach growls loudly. \nYou haven't eaten in days. \nSomewhere to your right, an old man appears. \n'Hungry are we my boy. What if told you I had a way for you to make a little bit of cash. All you have to do is to follow me... \nDo you 'follow' or do you 'ignore' the strange old man.")
+
     if action.lower() =="wander":
         print("You decide to wander the world to try and find powerful souls. \nYou succesfully find the soul of a powerful warrior, named Roland the Great, but you come across a major issue. \nYou aren't strong enough to control the spirit of Roland and he takes over you body.")
         print("Your body was taken over by the spirit of a dead man. \nSince your spirit has been destroyed and you have officially passed away.")
