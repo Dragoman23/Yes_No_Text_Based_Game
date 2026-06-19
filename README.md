@@ -38,7 +38,7 @@ No matter which path you choose, life as a necromancer is dangerous, and every c
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Dragoman23/The_Inevitable_End_of_the_Necromancer.git
 ```
 
 Move into the project folder:
@@ -50,7 +50,7 @@ cd YOUR_REPOSITORY
 Run the game:
 
 ```bash
-python main.py
+python 
 ```
 
 If your computer uses Python 3:
