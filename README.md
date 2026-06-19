@@ -71,6 +71,7 @@ Simply read the story and type the prompted choices exactly as shown to progress
 
 ## Screenshots
 
+![Demo Image 1](
 
 ---
 
