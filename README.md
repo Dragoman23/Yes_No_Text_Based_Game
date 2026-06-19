@@ -13,13 +13,13 @@ Your choices determine how your story unfolds.
 - If you choose to lie, you can join the mysterious Dark Guild and discover its dangerous missions.
 - Solve riddles, battle enemies, and face the consequences of every decision.
 
-No matter which path you choose, life as a necromancer is dangerous, and every choice could lead to a death.
+No matter which path you choose, life as a necromancer is dangerous, and every choice could lead to death.
 
 ---
 
 ## Features
 
-- Multiple branching story pathss
+- Multiple branching storylines
 - Interactive player choices
 - RPG-inspired fantasy setting
 - Uses Python's `time` library to create dramatic pauses with `time.sleep()`
@@ -56,7 +56,7 @@ python The_Inevitable_End_of_the_Necromancer_game_code.py
 If your computer uses Python 3:
 
 ```bash
-python3 main.py
+python3 The_Inevitable_End_of_the_Necromancer_game_code.py
 ```
 
 ---
