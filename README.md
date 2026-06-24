@@ -67,10 +67,16 @@ The game is entirely text-based.
 
 Simply read the story and type the prompted choices exactly as shown to progress through the adventure.
 
+Link to Gameplay Demo: https://youtu.be/7VcHQxcoBoA?si=jubN4lRBywCK4lDA
+
 ---
 
 ## Screenshots
 
+![Demo Image 1](images/Necromancer_Text-Game_Demo_Screenshot1.png)
+
+
+![Demo Image 2](images/Necromancer_Text-Game_Demo_Screenshot2.png)
 
 ---
 
